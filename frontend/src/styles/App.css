@@ -1,0 +1,18 @@
+/* frontend/src/styles/App.css */
+
+body {
+  background-color: #f4f4f4;
+}
+
+.App {
+  padding: 20px;
+}
+
+.segment {
+  background-color: #ffffff;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
