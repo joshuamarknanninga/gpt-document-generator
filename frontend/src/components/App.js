@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { Container, Divider } from 'semantic-ui-react';
-import HeaderComponent from './components/Header';
+import HeaderComponent from './Header';
 import InputForm from './InputForm';
 import DocumentViewer from './DocumentViewer';
 import '../styles/App.css';
